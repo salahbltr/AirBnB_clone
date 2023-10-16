@@ -10,7 +10,6 @@ class BaseModel:
 
     def __init__(self, *args, **kwargs):
         """Initialize a new BaseModel.
-
         Args:
             *args (any): Unused.
             **kwargs (dict): Key/value pairs of attributes.
@@ -35,7 +34,6 @@ class BaseModel:
 
     def to_dict(self):
         """Return the dictionary of the BaseModel instance.
-
         Includes the key/value pair __class__ representing
         the class name of the object.
         """
@@ -49,4 +47,3 @@ class BaseModel:
         """Return the print/str representation of the BaseModel instance."""
         clname = self.__class__.__name__
         return "[{}] ({}) {}".format(clname, self.id, self.__dict__)
-
