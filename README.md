@@ -231,18 +231,4 @@ show <class> <id>
 (hbnb) show User 
 
 ```
-## Authors
-<details>
-    <summary>Mustapha Oyebamiji</summary>
-    <ul>
-    <li><a href="https://www.github.com/Musoye">Github</a></li>
-    <li><a href="mailto:oyebamijimustapha44@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Moges Amane</summary>
-    <ul>
-    <li><a href="https://www.github.com/stoicism-sympathei">Github</a></li>
-    <li><a href="mailto:mogesanonymous@gmail.co">e-mail</a></li>
-    </ul>
-</details>
+
